@@ -18,6 +18,7 @@
                 "_UNICODE"
             ]
         },
+        /*
         {
             "name": "Arduino-ak",
             "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
@@ -51,6 +52,7 @@
                 "_UNICODE"
             ]
         },
+        */
         {
             "name": "Arduino",
             "compilerPath": "C:\\Users\\A\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\1.22.0-80-g6c4433a-5.2.0\\bin\\xtensa-esp32-elf-g++",
